@@ -7,7 +7,14 @@
     "dev": "nodemon index.js",
     "start": "nodemon index.js"
   },
-  "keywords": [ts-node, typescript, jsonplaceholder],
+  "keywords": [
+    "ts-node",
+    "typescript",
+    "jsonplaceholder"
+  ],
   "author": "Teri Eyenike",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "axios": "0.21.1"
+  }
 }

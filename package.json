@@ -1,0 +1,13 @@
+{
+  "name": "typescript-exercises",
+  "version": "1.0.0",
+  "description": "Simple fetch method with jsonplaceholder and catching errors with typescript",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "nodemon index.js"
+  },
+  "keywords": [ts-node, typescript, jsonplaceholder],
+  "author": "Teri Eyenike",
+  "license": "MIT"
+}
